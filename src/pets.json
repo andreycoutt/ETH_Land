@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "name": "",
+    "picture": "images/rio.jpg",
+    "age": "3 ETH",
+    "breed": "América",
+    "location": "Rio de Janeiro, Brasil"
+  },
+  {
+    "id": 1,
+    "name": "",
+    "picture": "images/rio.jpg",
+    "age": "3 ETH",
+    "breed": "Europa",
+    "location": "Berlim, Alemanha"
+  },
+  {
+    "id": 2,
+    "name": "",
+    "picture": "images/rio.jpg",
+    "age": "2 ETH",
+    "breed": "Ásia",
+    "location": "Seul, Coreia do Sul"
+  },
+  {
+    "id": 3,
+    "name": "",
+    "picture": "images/rio.jpg",
+    "age": "2 ETH",
+    "breed": "África",
+    "location": "Cairo, Egito"
+  },
+  {
+    "id": 4,
+    "name": "",
+    "picture": "images/rio.jpg",
+    "age": "2 ETH",
+    "breed": "Ásia",
+    "location": "Tóquio, Japão"
+  },
+  {
+    "id": 5,
+    "name": "",
+    "picture": "images/rio.jpg",
+    "age": "3 ETH",
+    "breed": "América",
+    "location": "Ontário, Canadá"
+  },
+  {
+    "id": 6,
+    "name": "",
+    "picture": "images/rio.jpg",
+    "age": "3 ETH",
+    "breed": "Oceania",
+    "location": "Camberra, Austrália"
+  },
+  {
+    "id": 7,
+    "name": "",
+    "picture": "images/rio.jpg",
+    "age": "3 ETH",
+    "breed": "América",
+    "location": "Flórida, EUA"
+  }
+]
