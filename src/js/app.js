@@ -78,7 +78,7 @@ web3 = new Web3(App.web3Provider);
     }).then(function(adopters) {
       for (i = 0; i < adopters.length; i++) {
         if (adopters[i] !== '0x0000000000000000000000000000000000000000') {
-          $('.panel-pet').eq(i).find('button').text('Vendida').attr('disabled', true);
+          $('.panel-pet').eq(i).find('button').text('Adotado(a)').attr('disabled', true);
         }
       }
     }).catch(function(err) {

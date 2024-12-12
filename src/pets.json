@@ -2,65 +2,65 @@
   {
     "id": 0,
     "name": "",
-    "picture": "images/rio.jpg",
+    "picture": "images/dog2.jpg",
     "age": "3 ETH",
-    "breed": "América",
+    "breed": "Luna",
     "location": "Rio de Janeiro, Brasil"
   },
   {
     "id": 1,
     "name": "",
-    "picture": "images/rio.jpg",
+    "picture": "images/dog2.jpg",
     "age": "3 ETH",
-    "breed": "Europa",
-    "location": "Berlim, Alemanha"
+    "breed": "Maya",
+    "location": "São Paulo, Brasil"
   },
   {
     "id": 2,
     "name": "",
-    "picture": "images/rio.jpg",
+    "picture": "images/dog2.jpg",
     "age": "2 ETH",
-    "breed": "Ásia",
-    "location": "Seul, Coreia do Sul"
+    "breed": "Simba",
+    "location": "Paraná, Brasil"
   },
   {
     "id": 3,
     "name": "",
-    "picture": "images/rio.jpg",
+    "picture": "images/dog2.jpg",
     "age": "2 ETH",
-    "breed": "África",
-    "location": "Cairo, Egito"
+    "breed": "Toby",
+    "location": "Pernambuco, Brasil"
   },
   {
     "id": 4,
     "name": "",
-    "picture": "images/rio.jpg",
+    "picture": "images/dog2.jpg",
     "age": "2 ETH",
-    "breed": "Ásia",
-    "location": "Tóquio, Japão"
+    "breed": "Fifi",
+    "location": "Mato Grosso, Brasil"
   },
   {
     "id": 5,
     "name": "",
-    "picture": "images/rio.jpg",
+    "picture": "images/dog2.jpg",
     "age": "3 ETH",
-    "breed": "América",
-    "location": "Ontário, Canadá"
+    "breed": "Chloe",
+    "location": "Bahia, Brasil"
   },
   {
     "id": 6,
     "name": "",
-    "picture": "images/rio.jpg",
+    "picture": "images/dog2.jpg",
     "age": "3 ETH",
-    "breed": "Oceania",
-    "location": "Camberra, Austrália"
+    "breed": "Rex",
+    "location": "Espirito Santo, Brasil"
   },
   {
     "id": 7,
     "name": "",
-    "picture": "images/rio.jpg",
+    "picture": "images/dog2.jpg",
     "age": "3 ETH",
-    "breed": "América",
-    "location": "Flórida, EUA"
+    "breed": "Lila",
+    "location": "Santa Catarina, Brasil"
   }
 ]

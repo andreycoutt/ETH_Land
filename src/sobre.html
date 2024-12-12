@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre - Cão & Companhia</title>
+    <style>
+        /* Resetando margens e padding */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Estilo do body */
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+            padding-top: 50px;
+        }
+
+        /* Estilo do header e navegação */
+        header {
+            background-color: #2c3e50;
+            padding: 10px 0;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+        }
+
+        header nav ul {
+            display: flex;
+            justify-content: center;
+            list-style-type: none;
+        }
+
+        header nav ul li {
+            margin: 0 20px;
+        }
+
+        header nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+            padding: 5px 10px;
+        }
+
+        header nav ul li a:hover {
+            background-color: #34495e;
+            border-radius: 5px;
+        }
+
+        /* Estilo da seção sobre */
+        #sobre {
+            margin-top: 80px; /* Para dar espaçamento do header fixo */
+            padding: 40px 20px;
+            background-color: #fff;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #2c3e50;
+            font-size: 36px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #34495e;
+            font-size: 28px;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+
+        p {
+            font-size: 18px;
+            margin-bottom: 20px;
+            text-align: justify;
+        }
+
+        ul {
+            list-style-type: none;
+        }
+
+        ul li {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+
+        /* Estilo do footer */
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;  /* Centraliza o texto */
+            padding: 20px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+            margin-top: 40px;
+        }
+
+        footer p {
+            font-size: 16px;
+        }
+
+        /* Responsividade */
+        @media (max-width: 768px) {
+            header nav ul {
+                flex-direction: column;
+            }
+
+            header nav ul li {
+                margin: 10px 0;
+            }
+
+            h1 {
+                font-size: 28px;
+            }
+
+            h2 {
+                font-size: 24px;
+            }
+
+            p, ul li {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="sobre">
+        <div class="container">
+            <h1>Sobre a Cão & Companhia</h1>
+            <p>A <strong>Cão & Companhia</strong> é uma organização dedicada a ajudar cães em busca de um lar amoroso e responsável. Nossa missão é conectar animais incríveis com famílias que possam proporcionar um ambiente seguro e cheio de carinho. Acreditamos que cada cachorro merece uma segunda chance, e trabalhamos para garantir que cada adoção seja uma experiência positiva tanto para os animais quanto para os adotantes.</p>
+            
+            <h2>Nossa História</h2>
+            <p>Fundada em 2020, a <strong>Cão & Companhia</strong> surgiu da paixão por animais e da necessidade de promover um movimento de adoção consciente. Desde então, temos ajudado milhares de cães a encontrarem seu lar ideal, promovendo eventos de adoção e realizando programas de conscientização sobre os direitos dos animais.</p>
+            
+            <h2>O que fazemos?</h2>
+            <ul>
+                <li>Adoção responsável: Garantimos que cada cão tenha uma chance justa de encontrar o lar dos sonhos.</li>
+                <li>Eventos de adoção: Organizamos feiras e eventos para promover a adoção.</li>
+                <li>Educação e conscientização: Trabalhamos para educar a comunidade sobre o cuidado e a importância da adoção de cães.</li>
+            </ul>
+            
+            <h2>Nosso Compromisso</h2>
+            <p>Na <strong>Cão & Companhia</strong>, cada cachorro é tratado com respeito e carinho. Nossa equipe de voluntários e parceiros se dedica a garantir que todos os animais tenham um futuro melhor e que todas as adoções sejam bem-sucedidas. Acreditamos que a adoção é uma escolha transformadora, tanto para os cães quanto para as famílias.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Cão & Companhia | Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
